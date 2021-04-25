@@ -1,19 +1,17 @@
-# Bus Tracker!
+# Bus Tracker
 
 ## Real Time Bus Tracker Exercise
 
-You know him.
-You love him.
-Here he is, alive and roaming your screen :) .
+Project Title: Real Time Bus Tracker
 
-Project Title: PacMan  
-Description: Upon clicking PacMan, he chomps across your screen from left to right. Upon hitting the right edge, he will make his way back.
-Usage: FUN
+Description: Upon clicking the 'Show Stops Between MIT and Harvard' button, an icon will momentarily stop at each bus stop between the schools.
 
-HOW TO RUN: Open the index.html file on your browser.
+HOW TO RUN: Open the index.html file on your browser. You may need to clone this repository to your machine.
 
 Support: Email jade.marie.abel@gmail.com
-Roadmap: In the future, PacMan might get chased by ghosts. He may also change colors.
+
+Roadmap: In the future, I would like to make a similar map for the City of Pittsburgh. Pittsburgh also makes their bus API data available to the public. In that future project, I think it'd be interesting to incorporate topography. Pittsburgh is very hilly and has disjointed population centers, so that map would be really interesting I'm sure.
+
 License information:
 MIT License
 
