@@ -6,6 +6,8 @@ Project Title: Real Time Bus Tracker
 
 Description: Upon clicking the 'Show Stops Between MIT and Harvard' button, an icon will momentarily stop at each bus stop between the schools.
 
+Usage: FUN (and potentially practical transit use!)
+
 HOW TO RUN: Open the index.html file on your browser. You may need to clone this repository to your machine.
 
 Support: Email jade.marie.abel@gmail.com
